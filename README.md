@@ -17,7 +17,7 @@ Control the ball by moving your eyebrows and try to hit the target!
 
 📂 Setup Instructions
 Clone the repository:
-git clone https://github.com/your_username/face-strike.git
+git clone https://github.com/NasuhcaNT/face-strike.git](https://github.com/NasuhcaNT/Face_Strike
 cd face-strike
 
 Install the required dependencies:
